@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: b577a34677ae4b34e9953fd597b4d1e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vagabond-attack_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 41
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.55470276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3bf54347c0fed41a1de94d24ab43b5
+      internalID: -991414188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 98
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.5511839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cbae622e69713408663ff8677fb949
+      internalID: -1213105774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.20471722, y: 0.30025402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9a07fba0b2fc439cc9f488a5f063f
+      internalID: 864836466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.19303474, y: 0.30091593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c254a9ba33d10e4c9f00499d424caef
+      internalID: 1304142107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.19085428, y: 0.29785505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ee1947e43a1b4db7afb7a44d0d8b3
+      internalID: 962795260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.17510898, y: 0.32973716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb2752cfe9d63d4fa5ddb45d7431716
+      internalID: 1561918440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21529841, y: 0.29012156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b640954a4499b4eae72e8c3be08462
+      internalID: -1459925675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.2240176, y: 0.28838494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6d292b58d57045929ce8c4e9aea18
+      internalID: -557856812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21701448, y: 0.2832345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62053118b0f84849bd227381d52b0ba
+      internalID: 796533176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.21877654, y: 0.2729039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5fed64ae525d43b71fe682585cd95
+      internalID: -747788312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_10
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.24146923, y: 0.33665398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdec717239b12f4f83595018db4027e
+      internalID: -939748618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.22751075, y: 0.25227222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c9722c80bc36f41b540a537245f597
+      internalID: -210092609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09563944, y: 0.26946035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba97df8b8bb5874e9bce3f20ec63a3d
+      internalID: 1685014807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.09126613, y: 0.27293354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51946e75aaa2ecd439ff1d28b244fb57
+      internalID: -157962537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vagabond-attack_14
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 0
+        width: 69
+        height: 35
+      alignment: 9
+      pivot: {x: 0.079906516, y: 0.2573931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d842bd9ce8d0604f8b59097f2b85a8b
+      internalID: -304511838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vagabond-attack_12: 1685014807
+      vagabond-attack_11: -210092609
+      vagabond-attack_3: 1304142107
+      vagabond-attack_10: -939748618
+      vagabond-attack_9: -747788312
+      vagabond-attack_6: -1459925675
+      vagabond-attack_2: 864836466
+      vagabond-attack_7: -557856812
+      vagabond-attack_8: 796533176
+      vagabond-attack_1: -1213105774
+      vagabond-attack_4: 962795260
+      vagabond-attack_5: 1561918440
+      vagabond-attack_14: -304511838
+      vagabond-attack_13: -157962537
+      vagabond-attack_0: -991414188
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

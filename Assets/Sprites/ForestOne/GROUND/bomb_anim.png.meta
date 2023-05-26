@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 83b2616fa5bdb0f4a8e94932e2f2502b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb_anim_0
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 206
+        width: 193
+        height: 346
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.50589615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc420aedd91a9b948b229a3e049fa7bb
+      internalID: -1023189786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_1
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 219
+        width: 254
+        height: 342
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.49400356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34a33d8f283f44e8cec93612a1da37
+      internalID: 1737667618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_2
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 175
+        width: 346
+        height: 421
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.484511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd51a3ed16a454bae2e2f24367be19
+      internalID: 671093182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_3
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 105
+        width: 429
+        height: 565
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.485782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9ab04eea49604f8a9e09453828acb
+      internalID: -228825664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_4
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 168
+        width: 525
+        height: 383
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.4894388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c2d8a64b81944e93d8706320aa174
+      internalID: -260210783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_5
+      rect:
+        serializedVersion: 2
+        x: 4973
+        y: 175
+        width: 486
+        height: 333
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.48785317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb568d3403bc396429aef783789d3cb0
+      internalID: 938701083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_6
+      rect:
+        serializedVersion: 2
+        x: 5708
+        y: 171
+        width: 545
+        height: 363
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640d0cc71580ab743b31486813555e9c
+      internalID: 639385553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_7
+      rect:
+        serializedVersion: 2
+        x: 6553
+        y: 180
+        width: 484
+        height: 320
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.49428272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4848d718826044390ce82f33d86b34
+      internalID: -1493746638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_8
+      rect:
+        serializedVersion: 2
+        x: 7348
+        y: 185
+        width: 533
+        height: 351
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.50229084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074ef72dc9102f24bbacba36f2806c1d
+      internalID: 1135398772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb_anim_11
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 172
+        width: 536
+        height: 357
+      alignment: 9
+      pivot: {x: 0.8390183, y: 0.4897507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992d6e0b1f9dcbf489d8e15528894c8b
+      internalID: 806828814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bomb_anim_5: 938701083
+      bomb_anim_0: -1023189786
+      bomb_anim_19: -1617290036
+      bomb_anim_15: -70180442
+      bomb_anim_9: 623891220
+      bomb_anim_3: -228825664
+      bomb_anim_17: 790204990
+      bomb_anim_22: 89771640
+      bomb_anim_25: 1478583297
+      bomb_anim_35: 482270302
+      bomb_anim_51: 1209602743
+      bomb_anim_26: -401024967
+      bomb_anim_29: 776075723
+      bomb_anim_45: -1765675793
+      bomb_anim_48: 645921533
+      bomb_anim_16: 1912979296
+      bomb_anim_21: -485405376
+      bomb_anim_27: 588519353
+      bomb_anim_46: 1537442864
+      bomb_anim_38: -74113242
+      bomb_anim_47: -1749685891
+      bomb_anim_36: -816988787
+      bomb_anim_33: 1440559724
+      bomb_anim_37: -483641066
+      bomb_anim_44: 1107600189
+      bomb_anim_12: 1889236588
+      bomb_anim_28: -1968785807
+      bomb_anim_39: -1941208985
+      bomb_anim_42: 1419728021
+      bomb_anim_49: 1929053674
+      bomb_anim_7: -1493746638
+      bomb_anim_6: 639385553
+      bomb_anim_24: -1304849480
+      bomb_anim_14: 508210548
+      bomb_anim_52: -1749702586
+      bomb_anim_50: -686501386
+      bomb_anim_13: -706505646
+      bomb_anim_40: -1293549044
+      bomb_anim_18: -2103266699
+      bomb_anim_20: -1808096960
+      bomb_anim_31: 330761493
+      bomb_anim_32: -1558266364
+      bomb_anim_41: 192279401
+      bomb_anim_43: -1229950374
+      bomb_anim_2: 671093182
+      bomb_anim_8: 1135398772
+      bomb_anim_1: 1737667618
+      bomb_anim_10: -1864619991
+      bomb_anim_34: 1768617149
+      bomb_anim_23: 1249286429
+      bomb_anim_4: -260210783
+      bomb_anim_30: -442725160
+      bomb_anim_11: 806828814
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

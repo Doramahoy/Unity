@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BACKGROUND
+    uniqueID: 120711805
+    locked: 0
+  - name: ROAD
+    uniqueID: 2932797211
+    locked: 0
+  - name: GROUND
+    uniqueID: 92960427
+    locked: 0
+  - name: Item
+    uniqueID: 302684599
+    locked: 0
+  - name: TREE_5
+    uniqueID: 980142091
+    locked: 0
+  - name: GRASS
+    uniqueID: 3695095065
+    locked: 0
+  - name: Player
+    uniqueID: 339604725
+    locked: 0
+  - name: Skelet
+    uniqueID: 3178808205
+    locked: 0
+  - name: TREE_4
+    uniqueID: 1380386795
+    locked: 0
+  - name: TREE_3
+    uniqueID: 4031828363
+    locked: 0
+  - name: TREE_2
+    uniqueID: 2664365849
+    locked: 0
+  - name: TREE_1
+    uniqueID: 1777220939
+    locked: 0
+  - name: FIRE
+    uniqueID: 2791517765
+    locked: 0
+  - name: KUST_1
+    uniqueID: 2763258397
+    locked: 0
+  - name: KUST_2
+    uniqueID: 414297363
+    locked: 0
+  - name: Inventory
+    uniqueID: 97804785
+    locked: 0
+  - name: Slot
+    uniqueID: 1739562453
+    locked: 0
